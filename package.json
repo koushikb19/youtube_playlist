@@ -1,0 +1,20 @@
+{
+  "name": "yt_playlist_download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffprobe-installer/ffprobe": "^1.1.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg-concat": "^1.2.3",
+    "ffprobe": "^1.1.2",
+    "google-auth-library": "^6.1.1",
+    "googleapis": "^61.0.0",
+    "youtube-dl": "^3.0.2"
+  }
+}
